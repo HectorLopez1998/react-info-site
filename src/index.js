@@ -1,17 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Header from './components/Header'
-import MainContent from './components/MainContent'
+import './style.css';
+import App from './App'
 
-function App() {
-  return (
-    <>
-      <Header />,
-      <MainContent />
-    </>
-  )
-}
 
 ReactDOM.render(
   <App />,

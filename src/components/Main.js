@@ -1,10 +1,9 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 
-export default function MainContent() {
+export default function Main() {
   return (
     <main>
-      <h1>Reasons I'm learning React</h1>
+      <h1>Fun Facts about React</h1>
       <section>
         <ul>
           <li>Reason number one</li>
